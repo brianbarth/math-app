@@ -1,0 +1,8 @@
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+.nav-font{
+  font-size: 3em;
+  color: darkgreen;
+}
