@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'math-app';
+  firstNumber: number = Math.floor((Math.random() * 100) + 1);
+  secondNumber: number = Math.floor((Math.random() * 100) + 1);
 }
