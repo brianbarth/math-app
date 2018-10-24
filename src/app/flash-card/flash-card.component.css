@@ -6,3 +6,9 @@
   font-size: 3em;
   color: darkgreen;
 }
+.bg-custom{
+  background-color: rgba(202, 214, 214, 0.829);
+}
+.big-nums{
+  font-size:4rem;
+}
